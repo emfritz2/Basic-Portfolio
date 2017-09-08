@@ -1,0 +1,209 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: #FFFFFF;
+  background-image:url('../Images/clean_textile.png');
+  background-repeat: repeat;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+    margin: 0;
+    background-color: white;
+    width: 100%;
+    height: 66px;
+    float: left;
+}
+
+h1 {
+  margin: 0;
+  width: 55%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 26px;
+  color: white;
+  background: #63A8A4;
+  width: 150px;
+  padding: 20px;
+  float: left;
+
+}
+
+.navbar {
+  float: left;
+  font-size: 18px;
+  padding: 25px 10px 25px 10px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #A6A09F;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 26px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #63A8A4;
+  border-bottom: 1px solid #A6A09F;
+  padding-bottom: 12px;
+
+}
+
+h3 {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #63A8A4;
+  border-bottom: 1px solid #A6A09F;
+  padding-bottom: 12px;
+}
+
+h4 {
+  position: absolute;
+  text-align: center;
+  bottom: 11px;
+  background: #63A8A4;
+  padding: 11px;
+  width: 238px;
+  color: white;
+  margin: 0;
+  font: 16px Georgia, "Times New Roman", Times, serif;
+}
+
+#main-portfolio,
+#contact,
+#connect-with-me,
+#about {
+  float: left;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+#main-portfolio {
+  width: 55%;
+  color: white;
+  text-decoration: none;
+  background-color: white;
+  padding: 25px;
+  padding-top: 0px;
+  margin: 35px;
+  margin-bottom: 50px;
+}
+
+.module1 {
+  margin: 10px;
+  width: 46%;
+  float: left;
+  position: relative;
+}
+
+.module2 {
+  margin: 10px;
+  width: 46%;
+  float: left;
+  position: relative;
+}
+
+.module3 {
+  margin: 10px;
+  width: 46%;
+  float: left;
+  position: relative;
+}
+
+.module4 {
+  margin: 10px;
+  width: 46%;
+  float: left;
+  position: relative;
+}
+
+.module5 {
+  margin: 10px;
+  width: 46%;
+  float: left;
+  position: relative;
+}
+
+#about {
+  width: 55%;
+  background-color: white;
+  font-size: 16px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #A6A09F;
+  line-height: 200%;
+  padding: 25px;
+  padding-top: 0px;
+  margin: 35px;
+  margin-bottom: 100px;
+}
+
+#article {
+  float: left;
+  width: 100%;
+}
+
+#contact {
+  width: 55%;
+  font-size: 16px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #A6A09F;
+  background-color: white;
+  padding: 25px;
+  padding-top: 0px;
+  margin: 35px;
+}
+
+input[type="text"] {
+  padding: 10px 10px;
+  margin: 8px 0;
+  width: 95%;
+}
+
+input[name="message"] {
+  height: 200px;
+}
+
+input[type="submit"] {
+    background-color: #63A8A4;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 10px 28px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#connect-with-me {
+  width: 18%;
+  background-color: white;
+  padding: 25px;
+  padding-top: 0px;
+  margin-top: 35px;
+}
+
+
+footer {
+  clear: both;
+  margin-bottom: 0px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 11px;
+  color: #A6A09F;
+  text-align: center;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
+  background-color: #666666;
+  border: solid;
+  border-width: 5px 0px 0px 0px;
+  border-color: #63A8A4;
+}
+
+
+
+
+
