@@ -16,18 +16,21 @@ header {
     background-color: white;
     width: 100%;
     height: 66px;
+    border-bottom: solid;
+    border-color: #cccccc;
+    border-width: 2px;
     float: left;
 }
 
 h1 {
   margin: 0;
-  width: 55%;
+  margin-left: 150px;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 26px;
   color: white;
-  background: #63A8A4;
+  background: #4aaaa5;
   width: 150px;
-  padding: 20px;
+  padding: 19px;
   float: left;
 
 }
@@ -44,7 +47,7 @@ h1 {
 h2 {
   font-size: 26px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: #63A8A4;
+  color: #4aaaa5;
   border-bottom: 1px solid #A6A09F;
   padding-bottom: 12px;
 
@@ -53,7 +56,7 @@ h2 {
 h3 {
   font-size: 20px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: #63A8A4;
+  color: #4aaaa5;
   border-bottom: 1px solid #A6A09F;
   padding-bottom: 12px;
 }
@@ -62,7 +65,7 @@ h4 {
   position: absolute;
   text-align: center;
   bottom: 11px;
-  background: #63A8A4;
+  background: #4aaaa5;
   padding: 11px;
   width: 238px;
   color: white;
@@ -84,6 +87,9 @@ h4 {
   color: white;
   text-decoration: none;
   background-color: white;
+  border: solid;
+  border-color: #dddddd;
+  border-width: 1px;
   padding: 25px;
   padding-top: 0px;
   margin: 35px;
@@ -132,6 +138,9 @@ h4 {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #A6A09F;
   line-height: 200%;
+  border: solid;
+  border-color: #dddddd;
+  border-width: 1px;
   padding: 25px;
   padding-top: 0px;
   margin: 35px;
@@ -149,6 +158,9 @@ h4 {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #A6A09F;
   background-color: white;
+  border: solid;
+  border-color: #dddddd;
+  border-width: 1px;
   padding: 25px;
   padding-top: 0px;
   margin: 35px;
@@ -165,7 +177,7 @@ input[name="message"] {
 }
 
 input[type="submit"] {
-    background-color: #63A8A4;
+    background-color: #4aaaa5;
     border: none;
     color: white;
     font-size: 16px;
@@ -179,7 +191,10 @@ input[type="submit"] {
 #connect-with-me {
   width: 18%;
   background-color: white;
-  padding: 25px;
+  padding: 27px;
+  border: solid;
+  border-color: #dddddd;
+  border-width: 1px;
   padding-top: 0px;
   margin-top: 35px;
 }
@@ -200,7 +215,7 @@ footer {
   background-color: #666666;
   border: solid;
   border-width: 5px 0px 0px 0px;
-  border-color: #63A8A4;
+  border-color: #4aaaa5;
 }
 
 
